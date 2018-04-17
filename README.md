@@ -1,1 +1,1 @@
-# OpenKinetics
+# Open Kinetics
